@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    width: 750px;
+    height: 458px;
+background-color: white;
+margin-top: 2cm;
+}
+body{
+    background-color: #70E1F5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    margin-top: 3rem;
+}
+.box-red{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+}
+.box-gray{
+width: 20px;
+height: 20px;
+background-color: gray;
+margin-left: 0.5rem;
+margin-top: 1rem 0;
+}
+button{
+    width: 19rem;
+    height: 2rem;
+    margin-top: 1.5rem;
+
+
+}
